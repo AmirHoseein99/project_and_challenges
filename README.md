@@ -1,5 +1,5 @@
 # Project and Challenge
-Some commonly known ml and data science project and Challenge from [Kaggle](https://kaggle.com/).
+some known ML and DataScience Projects and Challenges from [Kaggle](https://kaggle.com/).
 
 ## List of Projects: 
 * [Detecting Parkinson’s Disease](https://www.kaggle.com/vikasukani/detecting-parkinson-s-disease-machine-learning/data)
